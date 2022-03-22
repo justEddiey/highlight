@@ -1,0 +1,19 @@
+.highlight{
+    position: relative;
+    display: inline-flex;
+    padding-left: 32px;
+    background-color: yellow;
+}
+.tag{
+    position: absolute;
+    top: -20px;
+    left:0;
+    padding: 6px;
+    font-size: 16px;
+    background-color: white;
+    color: gray;
+    border-radius: 4px;
+    border: 1px solid gray;
+    cursor: pointer;
+
+}
